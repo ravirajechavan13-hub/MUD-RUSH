@@ -1,0 +1,14 @@
+{
+  "name": "Mud Rush - Hill Climb Game",
+  "short_name": "Mud Rush",
+  "start_url": "./index.html",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#080a0d",
+  "theme_color": "#111713",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
